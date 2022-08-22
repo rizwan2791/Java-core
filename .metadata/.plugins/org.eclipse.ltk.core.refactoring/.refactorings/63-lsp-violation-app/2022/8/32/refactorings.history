@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.aurionpro.model.Recatangle&apos; to &apos;Rectangle&apos;&#x0D;&#x0A;- Original project: &apos;63-lsp-violation-app&apos;&#x0D;&#x0A;- Original element: &apos;com.aurionpro.model.Recatangle&apos;&#x0D;&#x0A;- Renamed element: &apos;com.aurionpro.model.Rectangle&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Recatangle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.aurionpro.model{Recatangle.java[Recatangle" matchStrategy="1" name="Rectangle" qualified="false" references="true" similarDeclarations="true" stamp="1659357480492" textual="false" version="1.0"/>
+</session>

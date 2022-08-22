@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.aurionpro.model.overloading&apos; to &apos;Overloading&apos;&#x0D;&#x0A;- Original project: &apos;15-overloading&apos;&#x0D;&#x0A;- Original element: &apos;com.aurionpro.model.overloading&apos;&#x0D;&#x0A;- Renamed element: &apos;com.aurionpro.model.Overloading&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;overloading&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.aurionpro.model{overloading.java[overloading" matchStrategy="1" name="Overloading" qualified="false" references="true" similarDeclarations="true" stamp="1657101878544" textual="false" version="1.0"/>
+</session>

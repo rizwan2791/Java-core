@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;08-rectangle-counter-app&apos; to &apos;08-rectangle-obj-count-app&apos;" description="Rename resource &apos;08-rectangle-counter-app&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/08-rectangle-counter-app" name="08-rectangle-obj-count-app" stamp="1656909800522" updateReferences="true"/>
+</session>

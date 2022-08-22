@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.aurionpro.model.Pointer&apos; to &apos;Printer&apos;&#x0D;&#x0A;- Original project: &apos;49-delegation-principle&apos;&#x0D;&#x0A;- Original element: &apos;com.aurionpro.model.Pointer&apos;&#x0D;&#x0A;- Renamed element: &apos;com.aurionpro.model.Printer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Pointer&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.aurionpro.model{Pointer.java[Pointer" matchStrategy="1" name="Printer" qualified="false" references="true" similarDeclarations="true" stamp="1658319623149" textual="false" version="1.0"/>
+</session>
